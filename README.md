@@ -1,15 +1,15 @@
-Instructions on accessing:
+**<ins> Instructions on accessing:</ins>**
 1. Download CubeGame_VF.zip and uncompress the zip folder
 2. Click on the Shortcut named "CubeGame_VF"
 
 
-Game Versions:
+**<ins> Game Versions: </ins>**
 
-Released: 
-CubeGame_VF                              = First Release
+Released: <br>
+**CubeGame_VF** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;= First Release
 
-Planned: 
-CubeGame_VS (Est. May 2025)              + Music, SFX
-                                         + Local high-score saves 
-                                         + Levels 6 ~ 10
-                                         + Background Art 
+Planned: <br>
+CubeGame_VS (Est. May 2025)               &emsp;&emsp;&emsp;+ Music, SFX <br>
+                                          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;+ Local high-score saves <br>
+                                          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;+ Levels 6 ~ 10 <br>
+                                          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;+ Background Art <br>
