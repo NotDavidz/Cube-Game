@@ -8,8 +8,10 @@
 Released: <br>
 **CubeGame_VF** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;= First Release
 
+
 Planned: <br>
-CubeGame_VS (Est. May 2025)               &emsp;&emsp;&emsp;+ Music, SFX <br>
+**CubeGame_VF1 (Est. Feb 2025)**          &emsp;&emsp;&emsp;+ Bug Fixes <br> <br>
+**CubeGame_VS (Est. May 2025)**           &emsp;&emsp;&emsp;+ Music, SFX <br>
                                           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;+ Local high-score saves <br>
                                           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;+ Levels 6 ~ 10 <br>
                                           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;+ Background Art <br>
